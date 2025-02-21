@@ -18,15 +18,11 @@ Kenko is a workout journal which will provide you with appropriate progressive-o
 - [ ] Add Rating System
 - [ ] Provide Targeted Overload 
 - [ ] Add Import/Export
-- [x] Add Support for Isometric exercises
-
-## CONTRIBUTIONS
-
 ## LICENSE
 ```
-Kenko
+Hoshi
 
-Copyright (C) 2024 LooKeR & Contributors
+Copyright (C) 2024 Secondlnl
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
